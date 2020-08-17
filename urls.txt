@@ -1,0 +1,5 @@
+1. http://18.218.255.79/--> windows instance using AMI :Windows 2012 R2 base.
+2. http://3.15.166.252/-->windows instance using AMI :Ubuntu Server 18.04 LTS (HVM).
+3.https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Instances:sort=desc:statusChecks.
+
+
